@@ -1,0 +1,40 @@
+//* Screen sizes;
+$sm: 640px;
+$md: 768px;
+$ml: 860px;
+$lg: 1024px;
+$xl: 1280px;
+
+//* Colors;
+$primary: #FAEEE0;
+$op_primary: #faeee0cc;
+$primary_lighter: #fcf6ef;
+$secondary: #DBD0C0;
+$secondary_shadow: #aca08f;
+$l_accent: #F9CF93;
+$l_accent2: #ffe0b4;
+$d_accent: #b8843b;
+$d_accent2: #916220;
+
+:root {
+  --y_pad: 3rem;
+  --x_pad: 1rem;
+}
+
+@media (min-width: $sm) {
+  :root {
+    --x_pad: 5rem;
+  }
+}
+
+@media (min-width: $md) {
+  :root {
+    --x_pad: 7rem;
+  }
+}
+
+@media (min-width: $lg) {
+  :root {
+    --x_pad: 8rem;
+  }
+}

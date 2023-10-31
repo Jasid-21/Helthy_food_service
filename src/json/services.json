@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "title": "Service 1",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora provident est molestias. Esse dicta sapiente corrupti voluptatibus asperiores libero dolorum, quibusdam commodi praesentium incidunt officiis minus earum neque corporis recusandae.",
+      "imgUrl": "berries.jpg"
+    },
+  
+    {
+      "title": "Service 2",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora provident est molestias. Esse dicta sapiente corrupti voluptatibus asperiores libero dolorum, quibusdam commodi praesentium incidunt officiis minus earum neque corporis recusandae.",
+      "imgUrl": "casserole.jpg",
+      "reverse": true
+    },
+  
+    {
+      "title": "Service 3",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora provident est molestias. Esse dicta sapiente corrupti voluptatibus asperiores libero dolorum, quibusdam commodi praesentium incidunt officiis minus earum neque corporis recusandae.",
+      "imgUrl": "cereals.jpg"
+    },
+  
+    {
+      "title": "Service 4",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora provident est molestias. Esse dicta sapiente corrupti voluptatibus asperiores libero dolorum, quibusdam commodi praesentium incidunt officiis minus earum neque corporis recusandae.",
+      "imgUrl": "pancakes.jpg",
+      "reverse": true
+    }
+  ]
+}

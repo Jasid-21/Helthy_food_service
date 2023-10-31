@@ -1,0 +1,21 @@
+{
+  "plans": [
+    {
+      "title": "Free",
+      "price": 0.0,
+      "services": ["Service 1", "Service 2", "Service 3"]
+    },
+  
+    {
+      "title": "Pro",
+      "price": 10.0,
+      "services": ["Service 1", "Service 2", "Service 3"]
+    },
+  
+    {
+      "title": "Enterprise",
+      "price": 15.0,
+      "services": ["Service 1", "Service 2", "Service 3"]
+    }
+  ]
+}
